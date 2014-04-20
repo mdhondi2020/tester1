@@ -1,4 +1,1 @@
-tester1
-=======
-
-For the practice purpose
+cloned from the master branch
